@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\professional profect\\TeachingManagementSystem\\TeachingManagementSystem\\TeachingManagementSystem.csproj": {}
+    "H:\\TrainingManagementSystem\\TeachingManagementSystem\\TeachingManagementSystem\\TeachingManagementSystem.csproj": {}
   },
   "projects": {
-    "H:\\professional profect\\TeachingManagementSystem\\TeachingManagementSystem\\TeachingManagementSystem.csproj": {
+    "H:\\TrainingManagementSystem\\TeachingManagementSystem\\TeachingManagementSystem\\TeachingManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\professional profect\\TeachingManagementSystem\\TeachingManagementSystem\\TeachingManagementSystem.csproj",
+        "projectUniqueName": "H:\\TrainingManagementSystem\\TeachingManagementSystem\\TeachingManagementSystem\\TeachingManagementSystem.csproj",
         "projectName": "TeachingManagementSystem",
-        "projectPath": "H:\\professional profect\\TeachingManagementSystem\\TeachingManagementSystem\\TeachingManagementSystem.csproj",
+        "projectPath": "H:\\TrainingManagementSystem\\TeachingManagementSystem\\TeachingManagementSystem\\TeachingManagementSystem.csproj",
         "packagesPath": "C:\\Users\\Akib\\.nuget\\packages\\",
-        "outputPath": "H:\\professional profect\\TeachingManagementSystem\\TeachingManagementSystem\\obj\\",
+        "outputPath": "H:\\TrainingManagementSystem\\TeachingManagementSystem\\TeachingManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

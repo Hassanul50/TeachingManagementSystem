@@ -14,6 +14,8 @@ namespace TeachingManagementSystem.Models.StudentViewModel
         public string? Gender { get; set; }
         public int MobileNumber { get; set; }
 
+        public string? Address { get; set; }
+
 
 
 
