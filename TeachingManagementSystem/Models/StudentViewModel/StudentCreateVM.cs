@@ -16,6 +16,8 @@ namespace TeachingManagementSystem.Models.StudentViewModel
 
         public string? Address { get; set; }
 
+        public DateTime? BirthDate { get; set; }
+
 
 
 
